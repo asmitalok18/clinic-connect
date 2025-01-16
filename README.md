@@ -17,12 +17,12 @@ This website was created as a college project for the Database Management System
 - **Password:** admin
 
 #### Patient Login:
-- **Email:** chandu@gmail.com
-- **Password:** chandu123
+- **Email:** vk@gmail.com
+- **Password:** vk123
 
 #### Doctor Login:
-- **Username:** Prateek
-- **Password:** prateek123
+- **Username:** rohan
+- **Password:** rohan123
 
 ### User Registration
 
